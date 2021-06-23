@@ -97,6 +97,7 @@ p {
   text-decoration: none;
   color: #56a5eb;
   background-color: white;
+  border-radius: 20px;
 }
 
 .btn:hover {
