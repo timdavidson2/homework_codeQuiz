@@ -1,0 +1,74 @@
+[
+    {
+        "question": "Inside which HTML element do we put the JavaScript??",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+        "choice1": "<script href='xxx.js'>",
+        "choice2": "<script name='xxx.js'>",
+        "choice3": "<script src='xxx.js'>",
+        "choice4": "<script file='xxx.js'>",
+        "answer": 3
+    },
+    {
+        "question": " How do you write 'Hello World' in an alert box?",
+        "choice1": "msgBox('Hello World');",
+        "choice2": "alertBox('Hello World');",
+        "choice3": "msg('Hello World');",
+        "choice4": "alert('Hello World');",
+        "answer": 4
+    },
+    {
+        "question": " JavScript is created with JAVA?",
+        "choice1": "True",
+        "choice2": "False",
+        "choice3": "Definitley",
+        "choice4": "I don't know",
+        "answer": 2
+    },
+    {
+        "question": "  What variable is used if you expect the information to change?",
+        "choice1": "let",
+        "choice2": "const",
+        "choice3": "if",
+        "choice4": "I don't know",
+        "answer": 1
+    },
+    {
+        "question": " If you type the following code (3 > 2 > 1 === false;) in the console window, what result will you get?",
+        "choice1": "true",
+        "choice2": "false",
+        "choice3": "NaN",
+        "choice4": "null",
+        "answer": 1
+    },
+    {
+        "question": " JavaScript is a ___ -side programming language.",
+        "choice1": "Client",
+        "choice2": "Server",
+        "choice3": "Both",
+        "choice4": "None",
+        "answer": 3
+    },
+    {
+        "question": " How do you find the minimum of x and y using JavaScript?",
+        "choice1": "min(x,y)",
+        "choice2": "Math.min(x,y)",
+        "choice3": "Math.min(xy)",
+        "choice4": "min(xy)",
+        "answer": 2
+    },
+    {
+        "question": " Which JavaScript label catches all the values, except for the ones specified?",
+        "choice1": "catch",
+        "choice2": "label",
+        "choice3": "default",
+        "choice4": "try",
+        "answer": 3
+    }
+]
