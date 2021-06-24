@@ -26,7 +26,7 @@ fetch("./questions.json")
     startGame();
   })
   .catch((err) => {
-    alert("questions did not load, refresh to try again.");
+    console.log("questions did not load, refresh to try again.");
   });
 
 // **** CONSTANTS ****
