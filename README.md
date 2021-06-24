@@ -19,13 +19,13 @@ SO THAT I can gauge my progress compared to my peers
 ## Mock-up
 
 - Home Screen
-  ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./images/homeScreen.png)
+  ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/homeScreen.png)
 
 - Questions Screen
-  ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./images/questionScreen.png)
+  ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/questionScreen.png)
 
 - Intials Screen
-  ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./images/scoreInitialsScreen.png)
+  ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/scoreInitialsScreen.png)
 
 - High Scores Screen
-  ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./images/highscore.png)
+  ![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/images/highscore.png)
